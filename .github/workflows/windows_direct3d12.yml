@@ -1,4 +1,4 @@
-name: Windows (Direct3D12)
+name: Windows (Direct3D12
 
 on:
   push:
